@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "223255599710",
+    "firebase_url": "https://beyondrefuge-a3f9e.firebaseio.com",
+    "project_id": "beyondrefuge-a3f9e",
+    "storage_bucket": "beyondrefuge-a3f9e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:223255599710:android:bcfb3ad000141a43",
+        "android_client_info": {
+          "package_name": "com.example.abdullah.beyondrefuge"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "223255599710-jaerv7ka0rbbmcjpdv64lceopk9qumfa.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDkMR-uNCR0FW1TGkit4IJmlRzgA_A-Aqo"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

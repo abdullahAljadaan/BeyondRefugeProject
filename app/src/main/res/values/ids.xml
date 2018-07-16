@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="login_form" type="id">loginform</item>
+    <item name="email_sign_in_button" type="id">signemail</item>
+</resources>

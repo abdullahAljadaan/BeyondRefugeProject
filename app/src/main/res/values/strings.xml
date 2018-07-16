@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Beyond Refuge</string>
+    //Signup and Login Activities
+    <string name="email"> Enter valid email please!</string>
+    <string name="password"> Enter valid password please!</string>
+    <string name="LoginFaild"> Log in faild</string>
+    <string name="error_incorrect_password">error</string>
+    <string name="error_invalid_email">invaild</string>
+    <string name="error_field_required">field</string>
+    <string name="error_invalid_password">vaild password</string>
+    <string name="permission_rationale">permmision</string>
+    <string name="action_sign_in">signin</string>
+    <string name="alert_connection_1"> Internet Connection </string>
+    <string name="alert_connection_2"> There is not Internet connection ! </string>
+    <string name="emailrequaired">Email is requaired !</string>
+
+</resources>
